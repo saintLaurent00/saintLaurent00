@@ -345,8 +345,7 @@ I value:
 
 [![GitHub](https://img.shields.io/badge/GitHub-0d1117?style=for-the-badge&logo=github&logoColor=f7b500)](https://github.com/saintLaurent00)
 
-<!-- ⚠️ TODO : remplace "VOTRE-PROFIL" ci-dessous par ton identifiant LinkedIn -->
-[![LinkedIn](https://img.shields.io/badge/LinkedIn-0d1117?style=for-the-badge&logo=linkedin&logoColor=f7b500)](https://www.linkedin.com/in/VOTRE-PROFIL)
+[![LinkedIn](https://img.shields.io/badge/LinkedIn-0d1117?style=for-the-badge&logo=linkedin&logoColor=f7b500)](https://www.linkedin.com/in/laurent-ouattara-5224a9287)
 
 **Open to opportunities, collaborations and ambitious technical projects.**
 

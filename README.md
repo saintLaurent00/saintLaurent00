@@ -1,6 +1,6 @@
 <div align="center">
 
-<img src="./assets/banner.png" alt="Laurent Ouattara" width="100%"/>
+<img src="./assets/banner-anim.gif" alt="Laurent Ouattara" width="100%"/>
 
 <a href="https://git.io/typing-svg"><img src="https://readme-typing-svg.demolab.com?font=Fira+Code&weight=700&size=25&duration=2800&pause=900&color=F7B500&center=true&vCenter=true&width=850&lines=Software+Engineer+%26+Builder;Data+%C2%B7+Systems+%C2%B7+AI+%C2%B7+Security;Designing+Systems%2C+Building+Products;Rust+%C2%B7+Go+%C2%B7+Python+%C2%B7+Kotlin;Building+from+C%C3%B4te+d%27Ivoire+%F0%9F%87%A8%F0%9F%87%AE" alt="Typing SVG"/></a>
 
